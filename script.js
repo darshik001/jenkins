@@ -67,10 +67,7 @@ console.log(`upper Bound is:${occurrence(sorted,2).last}`)
 console.log(`Count is:${occurrence(sorted,2).count}`)
 
 
-// OUTPUT:
-// lower Bound is:1
-// upper Bound is:4
-// Count is:3
+
 
 
 
