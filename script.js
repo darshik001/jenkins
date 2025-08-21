@@ -64,7 +64,7 @@ let sorted = sortarr(arr)
 console.log(occurrence(sorted,2))
 console.log(`lower Bound is:${occurrence(sorted,2).first}`)
 console.log(`upper Bound is:${occurrence(sorted,2).last}`)
-console.log(`Count is:${occurrence(sorted,2).count}`
+console.log(`Count is:${occurrence(sorted,2).count}`)
 
 
 
