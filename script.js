@@ -1,4 +1,4 @@
-let sortar = (arr) => {
+let sortarr = (arr) => {
     if (arr.length <= 1) {
         return arr;
     }
